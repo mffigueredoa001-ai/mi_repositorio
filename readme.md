@@ -18,5 +18,5 @@ El sistema permite realizar un control integral de las operaciones diarias de un
 * **Trazabilidad:** Seguimiento detallado del estado de los envíos (pendiente, en preparación, listo, en tránsito, entregado) e historial de movimientos.
 * **Control de Incidencias:** Registro y gestión de anomalías en rutas o mercancías.
 
----
+
 
